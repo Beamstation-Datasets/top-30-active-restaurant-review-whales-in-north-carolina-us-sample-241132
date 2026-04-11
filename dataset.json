@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 30 days and a state-wide market scope. \n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in North Carolina, US",
+  "export_job_id": "9d7f1885-39fc-4ac8-bbc4-58762a223426",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 241132,
+  "location_name": "North Carolina",
+  "location_type": "state",
+  "repo_name": "top-30-active-restaurant-review-whales-in-north-carolina-us-sample-241132",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/241132/beamstation_241132_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 187,
+  "sample_sha256": "2d6c2253f0d98fcf7fe0997596ed9cbc4e01debc48e3958b72f51a6807f412e0",
+  "sample_size_bytes": 761625,
+  "total_records": 1870,
+  "updated_at": "2026-04-08T02:38:32.340503+00:00"
+}
