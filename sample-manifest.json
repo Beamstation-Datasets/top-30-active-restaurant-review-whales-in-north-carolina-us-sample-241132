@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9d7f1885-39fc-4ac8-bbc4-58762a223426",
+  "export_job_id": "52be33fc-dd03-4305-be80-06786c7c0b87",
   "id_short": 241132,
-  "published_at": "2026-04-11T07:13:35Z",
+  "published_at": "2026-04-19T07:46:54Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-north-carolina-us-sample-241132",
   "sample_asset_name": "beamstation_241132_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/241132/beamstation_241132_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 187,
-  "sample_sha256": "2d6c2253f0d98fcf7fe0997596ed9cbc4e01debc48e3958b72f51a6807f412e0",
-  "sample_size_bytes": 761625,
-  "total_records": 1870
+  "sample_records": 155,
+  "sample_sha256": "03ce63f395452ba88e8708a42cf735fb375cabf148dbe3b2d27bef6ce9b8ddb2",
+  "sample_size_bytes": 628819,
+  "total_records": 1554
 }
