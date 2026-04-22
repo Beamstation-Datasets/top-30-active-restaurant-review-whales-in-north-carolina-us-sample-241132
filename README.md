@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in North Carolina, US
 
-> Free BeamStation sample export with 155 rows and masked direct-contact fields.
+> Free BeamStation sample export with 59 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `241132` |
 | Location | North Carolina |
 | Category | Restaurants |
-| Full dataset size | 1,554 records |
-| Free sample size | 155 records (9.97%) |
-| Last export | 2026-04-15T07:54:38.151270+00:00 |
+| Full dataset size | 594 records |
+| Free sample size | 59 records (9.93%) |
+| Last export | 2026-04-22T14:25:32.344288+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-north-carolina-us-sample-241132/releases/download/sample-latest/beamstation_241132_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
